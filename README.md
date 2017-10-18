@@ -1,4 +1,4 @@
-# Enron Web Porjet #
+# Enron Web Project #
 
 ## Technologies used in the project
 
