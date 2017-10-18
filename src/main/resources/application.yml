@@ -1,0 +1,14 @@
+server:
+  port: 9000
+  contextPath: /
+spring:
+    application:
+        name: enron_web
+elasticsearch:
+    clustername: elasticsearch
+    host: localhost
+    port: 9300
+logging:
+    level:
+        org.springframework: INFO
+        org.springframework.beans.factory.support.DefaultListableBeanFactory: INFO  
